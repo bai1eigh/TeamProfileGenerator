@@ -15,4 +15,9 @@ SO THAT I have quick access to their emails and GitHub profiles
 * Inquirer Package
 * Jest Package 
 
+
+## Video
+[Video Demonstration](https://watch.screencastify.com/v/8azX9ZJMXQsc7fnzrDfH)
+
 ## Image
+![Index](./img/module10.PNG "Team Generator")
