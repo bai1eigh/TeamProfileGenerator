@@ -7,7 +7,7 @@ test("Can create a github.", () => {
 });
 
 test("Testing getGithub will return github.", () => {
-    const testGithub = "JamesLJenks";
+    const testGithub = "Keely";
     const employeeInstance = new Engineer("Keely", 2, "Keely@gmail.com", testGithub);
     expect(employeeInstance.getGithub()).toBe(testGithub);
 });
