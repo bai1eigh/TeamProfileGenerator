@@ -3,5 +3,27 @@
     "inquirer": "^8.2.4",
     "installer": "^0.0.1",
     "jest": "^28.1.3"
-  }
+  },
+  "name": "module-10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bai1eigh/TeamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bai1eigh/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/bai1eigh/TeamProfileGenerator#readme",
+  "description": ""
 }
